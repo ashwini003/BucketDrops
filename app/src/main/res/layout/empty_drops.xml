@@ -12,6 +12,7 @@
         android:layout_margin="84dp"
         android:src="@drawable/logo"/>
     <Button
+        android:background="@drawable/bg_btn_add_it"
         android:id="@+id/btn_add"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -25,6 +26,7 @@
         android:paddingRight="60dp"
         android:paddingTop="8dp"
         android:paddingBottom="8dp"
+        android:textColor="@color/btn_add_color"
         android:textAllCaps="false"/>
 
 
